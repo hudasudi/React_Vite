@@ -9,7 +9,7 @@ function App() {
      name="Huda"
      image={acheronIcon}
      description1="My first ever React Project"
-     description2="Aspiring Web and Mobile Developer! 😊"
+     description2=" Aspiring Web and Mobile Developer!"
    />
      </>
    );
