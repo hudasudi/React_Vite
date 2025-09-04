@@ -18,12 +18,6 @@ This project helped me learn about:
 
 ---
 
-## 💻 Preview
-
-<img width="1201" height="521" alt="Screenshot 2025-08-06 210420" src="https://github.com/user-attachments/assets/c86b338c-02da-4b63-bce4-0af977b93087" />
-
----
-
 ## 🛠 Technologies Used
 - React.js
 - HTML5
